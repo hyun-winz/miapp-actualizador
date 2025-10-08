@@ -1,17 +1,17 @@
 [
   {
-    "title": "Big Buck Bunny (MP4)",
-    "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-  },
-  {
-    "title": "Test HLS (m3u8)",
-    "thumbnail": "https://i.imgur.com/6vOahbP.png",
+    "title": "Ejemplo M3U8",
+    "thumbnail": "https://samplelib.com/lib/preview/mp4/sample-5s.jpg",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
-    "title": "Ejemplo MKV (prueba)",
-    "thumbnail": "https://i.imgur.com/6vOahbP.png",
-    "url": "https://example.com/your-video.mkv"
+    "title": "Ejemplo MP4",
+    "thumbnail": "https://samplelib.com/lib/preview/mp4/sample-10s.jpg",
+    "url": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4"
+  },
+  {
+    "title": "Ejemplo MKV",
+    "thumbnail": "https://samplelib.com/lib/preview/mp4/sample-15s.jpg",
+    "url": "https://ia601005.us.archive.org/4/items/SampleVideo1280x7205mb/SampleVideo_1280x720_5mb.mkv"
   }
 ]
