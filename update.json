@@ -1,7 +1,7 @@
 {
   "versionCode": 50,
   "versionName": "5.0",
-  "updateMessage": "¡Actualización funcionando al 100%!\n\nYa no sale ningún error en ningún celular.\n\n¡Gracias por la paciencia, crack!",
-  "apkUrl": "https://github.hyun-winz.workers.dev/hyun-winz/miapp-actualizador/releases/download/v5.0/StarzGod_v5.0.apk",
+  "updateMessage": "¡Actualización lista!\n\nSe instala al instante sin errores.",
+  "apkUrl": "https://github.com/hyun-winz/miapp-actualizador/releases/download/v5.0/StarzGod_v5.0.apk",
   "forceUpdate": false
 }
